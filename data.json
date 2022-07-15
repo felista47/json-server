@@ -1,0 +1,102 @@
+[
+    { "id" :1,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/KN021051-BL47_2000x.jpg?v=1611104928",
+    "price" : "$40",
+    "category" : "casual"
+    },
+    { "id" :2,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/KN021051-BL47_2000x.jpg?v=1611104928",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :3,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/files/SANDAL_1b7d7acb-c329-4898-9ab5-d169650dd5df_400x.jpg?v=1657547608",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :4,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/DH1349-001-PHCBH000-2000_800x.jpg?v=1648649754",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :5,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/t/294/assets/3cb632b122dc--Shot-05-081-R-a54581.png?v=1657559037",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :6,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/SW8249023_WT07_DETAIL_031_800x.jpg?v=1650638505",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :7,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/t/294/assets/e0503210dc7b--Shot-01-028-R-1-2f07e5.jpg?v=1644235879",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :8,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/SIR090-C33_BL01_R_800x.jpg?v=1655417730",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :9,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/products/A0890_AF2817_PL82_m1_800x.jpg?v=1571262700",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :10,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/80-45-4011-NAVY_1_800x.jpg?v=1628096881",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :11,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/104-0341_Green_01_800x.jpg?v=1619590088",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :12,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/products/CS405BK_800x.jpg?v=1571262801",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :13,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/products/GreenLotuffComputerPouch2_7495dd3d-3b1e-4d4b-be05-5f27f29ebc6c_800x.jpg?v=1650118727",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :14,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": "https://cdn.shopify.com/s/files/1/0186/1574/files/SPORTCOATS_6186f513-608e-4f0e-a7af-ee999d4a26bc_400x.jpg?v=1657547608",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :15,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/KN8917991_BL47_DETAIL_800x.jpg?v=1649256441",
+    "price" : "$40",
+    "category" : "casual"
+    },{ "id" :16,
+    "name":"Tshirt",
+    "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
+    "image": " https://cdn.shopify.com/s/files/1/0186/1574/products/KN021051-BL47_2000x.jpg?v=1611104928",
+    "price" : "$40",
+    "category" : "casual"
+    }
+    
+    
+    ]
