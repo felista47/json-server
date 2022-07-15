@@ -1,4 +1,5 @@
-[
+{
+    "products":[
     { "id" :1,
     "name":"Tshirt",
     "description" : "CHAMPION BASIC JERSEY TEE IN ORIGINAL NAVY",
@@ -97,6 +98,5 @@
     "price" : "$40",
     "category" : "casual"
     }
-    
-    
     ]
+}
