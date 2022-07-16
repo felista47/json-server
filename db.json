@@ -1,4 +1,18 @@
 {
+    "images":[
+        {
+            "id":"img1",
+            "image":"https://i.pinimg.com/736x/7b/f0/e8/7bf0e8b5b646f4d4d2263c86f0a648b2.jpg"
+        },
+         {
+            "id":"img2",
+            "image":"https://cdn.shopify.com/s/files/1/2930/7676/products/mens_swimwear_purple_vinge_project_1_2048x.jpg?v=1620808768"
+        },
+         {
+            "id":"img3",
+            "image":"https://i.pinimg.com/736x/7b/f0/e8/7bf0e8b5b646f4d4d2263c86f0a648b2.jpg"
+        }
+    ],
     "products":[
     { "id" :1,
     "name":"Tshirt",
