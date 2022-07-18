@@ -1,9 +1,15 @@
 {
     "categories":[
-        {"category":"official"}
-        ,{"category":"casual"},
-        {"category":"shoes"},
-        {"category":"jewelry","outdoor"}
+        {"id": "1",
+         "category":"official"},
+        {"id": "2",
+         "category":"casual"},
+        {"id": "3",
+            "category":"shoes"},
+        {"id": "4",
+            "category":"jewelry"}
+        {"id":"5",
+        "category":"outdoor"}
     ]
     ,
     "images":[
