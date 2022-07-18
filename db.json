@@ -1,6 +1,9 @@
 {
     "categories":[
-        {"official","casual","shoes","jewelry","outdoor"}
+        {"category":"official"}
+        ,{"category":"casual"},
+        {"category":"shoes"},
+        {"category":"jewelry","outdoor"}
     ]
     ,
     "images":[
