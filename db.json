@@ -113,5 +113,18 @@
     "price" : "$40",
     "category" : "casual"
     }
+    ],
+    "categories":[
+        {"id": "cat1",
+         "category":"official"},
+        {"id": "cat2",
+         "category":"casual"},
+        {"id": "cat3",
+            "category":"shoes"},
+        {"id": "cat4",
+            "category":"jewelry"}
+        {"id":"cat5",
+        "category":"outdoor"}
     ]
+    ,
 }
