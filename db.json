@@ -1,4 +1,8 @@
 {
+    "categories":[
+        {"official","casual","shoes","jewelry","outdoor"}
+    ]
+    ,
     "images":[
         {
             "id":"img1",
